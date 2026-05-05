@@ -4,7 +4,7 @@
 
 **My Small Kitty** is a 2D platformer game built with Godot.
 
-The project includes a playable platformer client, an in-game map editor, user-created map upload/download features, online rankings, replay data, and ghost features connected to a FastAPI backend.
+The project includes a playable platformer client, an in-game map editor, user-created map upload/download features, online rankings, replay data, and ghost features
 
 ---
 
