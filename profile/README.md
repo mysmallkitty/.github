@@ -1,4 +1,4 @@
-# My Small Kitty
+# My Small Kitty ( WIP BETA )
 
 ![logo](https://raw.githubusercontent.com/mysmallkitty/my_small_kitty/refs/heads/main/graphics/ui/logo.png)
 
